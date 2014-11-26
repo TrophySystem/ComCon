@@ -1,0 +1,18 @@
+{
+    "context": "server",
+    "identifier": "com.pa.mods.server.comcon",
+    "display_name": "Commander & Conquest",
+    "description": "Collection style economy.",
+    "author": "TrophySystem",
+    "version": "1.1",
+    "build": "74525",
+    "date": "2014/11/20",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/",
+    "id": "comcon",
+    "priority": 100,
+    "icon": "http://pamods.github.io/icons/comcon.png",
+    "enabled": true,
+    "content_id": "com.pa.mods.server.comcon",
+    "store_id": "com.pahub.content.plugin.store.mod.server"
+}
